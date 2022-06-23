@@ -1,0 +1,30 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\development\\gameplaymessageruntime\\module.gameplaymessageruntime.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\intermediate\\build\\win64\\tictactoeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\development\\gameplaymessageruntime\\definitions.gameplaymessageruntime.h",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\asyncaction_listenforgameplaymessage.gen.cpp",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\asyncaction_listenforgameplaymessage.h",
+            "c:\\projects\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "c:\\projects\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\blueprintasyncactionbase.generated.h",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagesubsystem.h",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagetypes2.h",
+            "c:\\projects\\ue_5.0\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\projects\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\projects\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessagetypes2.generated.h",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessagesubsystem.generated.h",
+            "c:\\projects\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\cancellableasyncaction.h",
+            "c:\\projects\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cancellableasyncaction.generated.h",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\asyncaction_listenforgameplaymessage.generated.h",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessageruntime.init.gen.cpp",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessagesubsystem.gen.cpp",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessagetypes2.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

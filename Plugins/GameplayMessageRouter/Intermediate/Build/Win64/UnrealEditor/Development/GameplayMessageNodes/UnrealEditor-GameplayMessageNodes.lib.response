@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameplayMessageNodes.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tx\Documents\Unreal Projects\TicTacToe\Intermediate\Build\Win64\TicTacToeEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\tx\Documents\Unreal Projects\TicTacToe\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Module.GameplayMessageNodes.cpp.obj"
+"C:\Users\tx\Documents\Unreal Projects\TicTacToe\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Module.GameplayMessageNodes.gen.cpp.obj"
+"C:\Users\tx\Documents\Unreal Projects\TicTacToe\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Default.rc2.res"
+/OUT:"C:\Users\tx\Documents\Unreal Projects\TicTacToe\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\UnrealEditor-GameplayMessageNodes.lib"

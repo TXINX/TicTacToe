@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\development\\gameplaymessagenodes\\module.gameplaymessagenodes.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\intermediate\\build\\win64\\tictactoeeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\development\\gameplaymessagenodes\\definitions.gameplaymessagenodes.h",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessagenodes\\gameplaymessagenodes.init.gen.cpp",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessagenodes\\k2node_asyncaction_listenforgameplaymessages.gen.cpp",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\source\\gameplaymessagenodes\\public\\k2node_asyncaction_listenforgameplaymessages.h",
+            "c:\\projects\\ue_5.0\\engine\\source\\editor\\blueprintgraph\\classes\\k2node_asyncaction.h",
+            "c:\\projects\\ue_5.0\\engine\\source\\editor\\blueprintgraph\\classes\\k2node_baseasynctask.h",
+            "c:\\projects\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\k2node_baseasynctask.generated.h",
+            "c:\\projects\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\k2node_asyncaction.generated.h",
+            "c:\\users\\tx\\documents\\unreal projects\\tictactoe\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessagenodes\\k2node_asyncaction_listenforgameplaymessages.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
